@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Reginald</h1>
 <h3 align="center">iOS Developer from Indonesia</h3>
 
-- 🌱 I’m currently learning **Swift Programming for iOS Development**
+- 🌱 I’m currently learning **Swift for iOS Development** and **C# for Game Development**
 
 - 📫 How to reach me **reginaldlay777@gmail.com**
 
